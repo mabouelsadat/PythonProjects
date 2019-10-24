@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d65f3da8-7e5e-4448-8e5b-a56679bf133a" name="Default Changelist" comment="" />
+    <list default="true" id="d65f3da8-7e5e-4448-8e5b-a56679bf133a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissors.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RockPaperScissors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="136">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GuessingGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -115,10 +126,11 @@
         <option value="$PROJECT_DIR$/StringLists.py" />
         <option value="$PROJECT_DIR$/ListComprehensions.py" />
         <option value="$PROJECT_DIR$/RockPaperScissors.py" />
+        <option value="$PROJECT_DIR$/GuessingGame.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -158,8 +170,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RockPaperScissors">
-    <configuration name="AllDivisors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.GuessingGame">
+    <configuration name="GuessingGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AllDivisors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuessingGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GuessingGame" />
         <item itemvalue="Python.RockPaperScissors" />
         <item itemvalue="Python.ListComprehensions" />
         <item itemvalue="Python.StringLists" />
         <item itemvalue="Python.ListOverlap" />
-        <item itemvalue="Python.AllDivisors" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +303,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17382683" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12557831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -369,8 +381,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RockPaperScissors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessingGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>

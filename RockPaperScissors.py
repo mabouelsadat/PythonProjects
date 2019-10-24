@@ -1,4 +1,4 @@
-#wo-player Rock-Paper-Scissors game.
+# Two-player Rock-Paper-Scissors game.
 
 __author = "Mohamed Abouelsaadat"
 
