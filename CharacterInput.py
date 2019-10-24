@@ -1,44 +1,13 @@
-x = 200
-y = 200.1
-is_Signed_In = True
+while(True):
 
-print (type(is_Signed_In))
-
-print(" this is parsing shit " + str(x))
-
-email = """Dear Sender
-
-Your email has been registered. 
-
-regards, 
-Support Team 
-"""
-
-print(len(email))
-print(email[1:-2])
-print(email.upper())
-
-#replacing
-print(email.replace("Lorem", "400"))
-
-#Splitting
-print(email.split())
-
-#in
-
-print("Dear"  in email )
-
-name = "Mohamed"
-lastname = "Abouelsaadat"
-email = "m.abouelsadat@gmail.com"
-
-
-Email_To_Sender = """Dear {} {}
-
-Your email {} has been registered. 
-
-regards, 
-Support Team 
-"""
-
-print(Email_To_Sender.format(name , lastname, email))
+    name = input("Enter your name: ")
+    age = input("Enter your age(Max 100 years old): ")
+    # Checking that name and age not empty and age is less than 100 years old
+    if (len(name) == 0 or len(age) == 0 or int(age) >= 100):
+        print("Please enter valid data")
+        continue
+    else:
+        calage = 100 - int(age)
+        print("Hi " + name + " you are " + str(age) + " However you will turn 100 years old after " + str(
+            calage) + " years ENJOY!!!")
+    break
