@@ -7,7 +7,7 @@ while(True):
         print("Please enter valid data")
         continue
     else:
-        calage = 100 - int(age)
-        print("Hi " + name + " you are " + str(age) + " However you will turn 100 years old after " + str(
-            calage) + " years ENJOY!!!")
+        calage = (100 - int(age)) + 2019
+        print("Hi " + name + " you are " + str(age) + " However you will turn 100 years old in " + str(
+            calage) + " ENJOY!!!")
     break
